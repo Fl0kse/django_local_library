@@ -26,7 +26,7 @@ SECRET_KEY = 'rob4!6ve6i1w)1a+y@h+de4)j8l#@gg7p)4a(=k+-51%d^#=db'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['blooming-eyrie-66306.herokuapp.com']
 
 
 # Application definition
